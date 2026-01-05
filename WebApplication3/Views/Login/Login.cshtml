@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@model WebApplication3.Models.LoginModel
+@{
+    Layout = null;
+}
+<head>
+    <link rel="stylesheet" href="~/css/site.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</head>
+
+
+<div class="container">
+    <div class="wrapper">
+        <h1>Login</h1>
+        <form asp-action="Login" method="post">
+            <div class="input-box">
+                @* <label>Username</label> *@
+                <input asp-for="username" placeholder="Username" required autocomplete="off" autofocus />
+            </div>
+            <div class="input-box">
+                @* <label>Password</label> *@
+                <input asp-for="password" type="password" placeholder="Password" minlength ="8" required  />
+            </div>
+            <div class="forget">
+                <label for="demo">
+                    <input type="checkbox" id="demo" />
+                    Remember me
+                </label>
+                <a href="#">Forgot password?</a>
+            </div>
+
+            @* <div class="forgot">
+                <label for="me"><input type="checkbox" id="me" required>Remember me</label>
+                <a href="#" style="text-decoration: none;">forgot password?</a>
+            </div> *@
+
+            <button type="submit">Login</button>
+            <div class="register">
+                Don't have an account? ?<a href="/Register/Register" style="text-decoration:none;">Register</a>
+            </div>
+        </form>
+
+        @if (ViewBag.Error != null)
+        {
+            <script>
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Login Failed',
+                    text: '@ViewBag.Error',
+                    confirmButtonText: 'OK'
+                });
+            </script>
+        }
+
+
+
+        @* @if (ViewBag.Message != null)
+        {
+            <p style="color:darkred;font-weight:bold">@ViewBag.Message</p>
+        } *@
+    </div>
+</div>

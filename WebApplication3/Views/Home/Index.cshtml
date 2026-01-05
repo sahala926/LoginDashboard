@@ -1,0 +1,16 @@
+﻿@model WebApplication3.Models.HomeModel
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+
+<div class="text-center">
+    
+    
+   <h1 class="display-4">MessageText</h1>
+    <form asp-action="Index" method="post">
+        <input asp-for="text" type="text" placeholder="enter the message" />
+        <button type="submit">submit</button><br />
+    </form>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

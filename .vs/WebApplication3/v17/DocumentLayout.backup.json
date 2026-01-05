@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\text\\text.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\text\\text.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\controllers\\textcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\textcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\migrations\\20251225164624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\migrations\\20251225164624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|e:\\sahalaproject\\itexpertc#code\\webapplication3\\webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B147A9-AD9D-4868-9EE2-301345BBCE3A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\Class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:20:25.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\HomeModel.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\HomeModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:53:55.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:32:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Text.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Text.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Text.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:31:06.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Text\\Text.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Text\\Text.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Text\\Text.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Text\\Text.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T15:10:45.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA+wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:24:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:58:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextController.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\TextController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\TextController.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\TextController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\TextController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:12:45.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T07:57:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\RegisterController.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:50:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Register\\Register.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T12:01:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T16:09:54.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Register.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Register.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T13:27:09.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:32:24.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:30:14.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T14:32:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\LoginModel.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:24:42.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Home.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Home.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Home.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:07:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Login\\Login.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:25:54.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Login.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\Login.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:47:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:59:05.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:52:57.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\favicon.ico",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-12-25T12:38:30.816Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:27:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebApplication3",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T11:52:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-23T05:46:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251225164624_InitialCreate.cs",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Migrations\\20251225164624_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Migrations\\20251225164624_InitialCreate.cs",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Migrations\\20251225164624_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication3\\Migrations\\20251225164624_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:46:24.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.css",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\css\\Register.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\css\\Register.css",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\wwwroot\\css\\Register.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\css\\Register.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-24T17:44:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebApplication3.csproj",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T18:03:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:27:16.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T15:29:55.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T15:27:25.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\WebApplication3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T14:32:27.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\Class1.vb",
+              "RelativeDocumentMoniker": "Class1.vb",
+              "ToolTip": "E:\\sahalaproject\\ITExpertC#code\\WebApplication3\\Class1.vb",
+              "RelativeToolTip": "Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-24T11:48:06.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
